@@ -1,6 +1,6 @@
-# [nchen.github.io](https://nchen.github.io)
+# [nchen357.github.io/resume](https://nchen357.github.io/resume)
 
-Personal website redesigned from a [Bootstrap](https://startbootstrap.com/template-overviews/resume/) theme
+Personal resume website redesigned from a [Bootstrap](https://startbootstrap.com/template-overviews/resume/) theme
 
 ## Copyright and License
 
